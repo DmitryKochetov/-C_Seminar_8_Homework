@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Знакомство с языками программирования\Семинар_8\Tasks\Task58\bin\Debug\net6.0\Task58.exe
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Знакомство с языками программирования\Семинар_8\Tasks\Task58\bin\Debug\net6.0\Task58.deps.json
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Знакомство с языками программирования\Семинар_8\Tasks\Task58\bin\Debug\net6.0\Task58.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Знакомство с языками программирования\Семинар_8\Tasks\Task58\bin\Debug\net6.0\Task58.dll
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Знакомство с языками программирования\Семинар_8\Tasks\Task58\bin\Debug\net6.0\Task58.pdb
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Знакомство с языками программирования\Семинар_8\Tasks\Task58\obj\Debug\net6.0\Task58.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Знакомство с языками программирования\Семинар_8\Tasks\Task58\obj\Debug\net6.0\Task58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Знакомство с языками программирования\Семинар_8\Tasks\Task58\obj\Debug\net6.0\Task58.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Знакомство с языками программирования\Семинар_8\Tasks\Task58\obj\Debug\net6.0\Task58.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Знакомство с языками программирования\Семинар_8\Tasks\Task58\obj\Debug\net6.0\Task58.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Знакомство с языками программирования\Семинар_8\Tasks\Task58\obj\Debug\net6.0\Task58.dll
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Знакомство с языками программирования\Семинар_8\Tasks\Task58\obj\Debug\net6.0\refint\Task58.dll
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Знакомство с языками программирования\Семинар_8\Tasks\Task58\obj\Debug\net6.0\Task58.pdb
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Знакомство с языками программирования\Семинар_8\Tasks\Task58\obj\Debug\net6.0\Task58.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Знакомство с языками программирования\Семинар_8\Tasks\Task58\obj\Debug\net6.0\ref\Task58.dll
